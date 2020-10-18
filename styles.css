@@ -1,0 +1,45 @@
+.info
+{
+    background-color:whitesmoke;
+    padding: 30px;
+    float: right;
+    font-size: medium;
+    border-style: groove;
+    
+    
+}
+#pinfo
+{
+    font-size: larger;
+    padding-right: 80px;
+    float: right;
+}
+
+table
+{
+    text-align: left;
+    width: 970px;
+    border: 1px solid black;
+    border-style: groove;
+}
+table th,td
+{
+    text-align: center;
+    
+        padding: 15px;
+        text-align: left;
+      
+}
+table th
+{
+    background-color:lightgray;
+}
+table tr
+{
+  
+    height: 5px;
+    width: 50px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
